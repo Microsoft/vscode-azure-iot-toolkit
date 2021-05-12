@@ -160,6 +160,7 @@ export class Constants {
         },
         [TemplateLanguage.FSharp]: {
             [TemplateType.SendD2C]: "fsharp/sendD2C",
+            [TemplateType.DeviceManageDeviceTwin]: "fsharp/deviceManageDeviceTwin"
         },
         [TemplateLanguage.Go]: {
             [TemplateType.SendD2C]: "go/sendD2C.go",
