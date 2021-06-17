@@ -183,6 +183,7 @@ export class Constants {
         },
         [TemplateLanguage.Python]: {
             [TemplateType.SendD2C]: "python/sendD2C.py",
+            [TemplateType.DeviceManageDeviceTwin]: "python/deviceManageDeviceTwin.py"
         },
         [TemplateLanguage.Ruby]: {
             [TemplateType.SendD2C]: "ruby/sendD2C.rb",
